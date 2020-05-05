@@ -1,0 +1,29 @@
+.siteHeader {
+    /*  background-color:rgb(95, 76, 206); */
+    background: #4C179C;
+    background: -moz-linear-gradient(-45deg, #4C179C 0%, #3D127D 50%, #320F66 100%);
+    background: -webkit-linear-gradient(-45deg, #4C179C 0%, #3D127D 50%, #320F66 100%);
+    background: linear-gradient(135deg, #4C179C 0%, #3D127D 50%, #320F66 100%);
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  /*   border-bottom: rgb(69, 54, 153) 4px solid; */
+}
+
+#nyIcon {
+    width: 59px;
+    height: auto;
+}
+/* 
+.siteForm{
+    border: rgba(128, 128, 128, 0.432) 1px solid;
+    border-radius: 34px;
+    padding: 42px;
+} */
+
+.formHeader{
+    background-color:rgba(128, 128, 128, 0.452);
+    color: black;
+ 
+}
